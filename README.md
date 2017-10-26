@@ -6,7 +6,8 @@
 
 ## ¿Operaciones que pueden hacerce con una pila?
 #### Las pilas tienen dos operaciones básicas:
-    ### push
+
+### push
     Insertar un elemento.
-    ### pop
+### pop
     Extraer un elemento.
